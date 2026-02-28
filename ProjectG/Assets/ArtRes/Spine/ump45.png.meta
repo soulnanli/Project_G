@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 51bc7cf5670ca164db691d7a109e4605
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -647765313962989160
+    second: ump45_0
+  - first:
+      213: -3910150143451119133
+    second: ump45_1
+  - first:
+      213: 9114416672180016265
+    second: ump45_2
+  - first:
+      213: 1801697771598252531
+    second: ump45_3
+  - first:
+      213: -7062776190003524606
+    second: ump45_4
+  - first:
+      213: -6060543297252227846
+    second: ump45_5
+  - first:
+      213: 6552966852807521875
+    second: ump45_6
+  - first:
+      213: -7703586651107487914
+    second: ump45_7
+  - first:
+      213: 4989308665884423677
+    second: ump45_8
+  - first:
+      213: -3505213771698232148
+    second: ump45_9
+  - first:
+      213: -289872997752363875
+    second: ump45_10
+  - first:
+      213: 8519101038869411874
+    second: ump45_11
+  - first:
+      213: -8542367538674411822
+    second: ump45_12
+  - first:
+      213: 978290607513357787
+    second: ump45_13
+  - first:
+      213: -5381064539987177969
+    second: ump45_14
+  - first:
+      213: -8955075843790120010
+    second: ump45_15
+  - first:
+      213: 995613354014535102
+    second: ump45_16
+  - first:
+      213: 4736459465713554120
+    second: ump45_17
+  - first:
+      213: -1909647414741351730
+    second: ump45_18
+  - first:
+      213: -4113841207556548208
+    second: ump45_19
+  - first:
+      213: -7746705171080183069
+    second: ump45_20
+  - first:
+      213: -1401244912622819355
+    second: ump45_21
+  - first:
+      213: 3788280299431078806
+    second: ump45_22
+  - first:
+      213: -6011965946555925767
+    second: ump45_23
+  - first:
+      213: -8918312168731806295
+    second: ump45_24
+  - first:
+      213: -7006858262549391018
+    second: ump45_25
+  - first:
+      213: -6619608491555452476
+    second: ump45_26
+  - first:
+      213: -4054512424686748662
+    second: ump45_27
+  - first:
+      213: -6008205588840147326
+    second: ump45_28
+  - first:
+      213: 4056891231136440146
+    second: ump45_29
+  - first:
+      213: -8187703230045870092
+    second: ump45_30
+  - first:
+      213: -993053564269652815
+    second: ump45_31
+  - first:
+      213: -6521204558226207634
+    second: ump45_32
+  - first:
+      213: -8104994513925182465
+    second: ump45_33
+  - first:
+      213: -7292207144652101782
+    second: ump45_34
+  - first:
+      213: -5233074008106811537
+    second: ump45_35
+  - first:
+      213: 4113514821013011364
+    second: ump45_36
+  - first:
+      213: 603377428399950014
+    second: ump45_37
+  - first:
+      213: -7991931714415286934
+    second: ump45_38
+  - first:
+      213: 7414170872147277863
+    second: ump45_39
+  - first:
+      213: -3276238082020111599
+    second: ump45_40
+  - first:
+      213: 7753995898959135728
+    second: ump45_41
+  - first:
+      213: 3175755431097574731
+    second: ump45_42
+  - first:
+      213: -5474105460697002579
+    second: ump45_43
+  - first:
+      213: 1383994865562402098
+    second: ump45_44
+  - first:
+      213: 5080949757429791933
+    second: ump45_45
+  - first:
+      213: -7652102789012350434
+    second: ump45_46
+  - first:
+      213: -5483096381557420875
+    second: ump45_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ump45_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899aa6301eca207f0800000000000000
+      internalID: -647765313962989160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e14721592b5cb9c0800000000000000
+      internalID: -3910150143451119133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98410305ca9ec7e70800000000000000
+      internalID: 9114416672180016265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f90ab4d39ae00910800000000000000
+      internalID: 1801697771598252531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cc0c2b97afbfd90800000000000000
+      internalID: -7062776190003524606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 69
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af408653bff94eba0800000000000000
+      internalID: -6060543297252227846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 62
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356708e22a0d0fa50800000000000000
+      internalID: 6552966852807521875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 61
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f0c4491cc571590800000000000000
+      internalID: -7703586651107487914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 55
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5b1d01cc59d3540800000000000000
+      internalID: 4989308665884423677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 55
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4ae1465aafa5fc0800000000000000
+      internalID: -3505213771698232148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 55
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942efa5b0a2afbf0800000000000000
+      internalID: -289872997752363875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 97
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f87b324de93670800000000000000
+      internalID: 8519101038869411874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 88
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6db74abf9637980800000000000000
+      internalID: -8542367538674411822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 88
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd4fe3df16939d00800000000000000
+      internalID: 978290607513357787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 86
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0d9c9f4e9255b0800000000000000
+      internalID: -5381064539987177969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 83
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb553257fd29b380800000000000000
+      internalID: -8955075843790120010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_16
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 102
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdebab021121dd00800000000000000
+      internalID: 995613354014535102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 55
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c294ea0ac84bb140800000000000000
+      internalID: 4736459465713554120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_18
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 54
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec249164bc19f75e0800000000000000
+      internalID: -1909647414741351730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 54
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0995a31c733b8e6c0800000000000000
+      internalID: -4113841207556548208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 76
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e28512d0bc2e7490800000000000000
+      internalID: -7746705171080183069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 74
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72bc31d27cd8ce0800000000000000
+      internalID: -1401244912622819355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 80
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b23357cdca29430800000000000000
+      internalID: 3788280299431078806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faf9c903d4319ca0800000000000000
+      internalID: -6011965946555925767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a572b2755acb3480800000000000000
+      internalID: -8918312168731806295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6599b3db883a2ce90800000000000000
+      internalID: -7006858262549391018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c98dac262d6224a0800000000000000
+      internalID: -6619608491555452476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 124
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c73257e6a7bb7c0800000000000000
+      internalID: -4054512424686748662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 39
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869aab89d09e9ca0800000000000000
+      internalID: -6008205588840147326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 39
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd8449419fc4830800000000000000
+      internalID: 4056891231136440146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 36
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72cc6ea4f6f5e80800000000000000
+      internalID: -8187703230045870092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 32
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b495c27b07f732f0800000000000000
+      internalID: -993053564269652815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_32
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 54
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc44f41070085a0800000000000000
+      internalID: -6521204558226207634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 32
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbeff28e66458f80800000000000000
+      internalID: -8104994513925182465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 54
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67227adc30ecca90800000000000000
+      internalID: -7292207144652101782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 51
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fb6776ae26067b0800000000000000
+      internalID: -5233074008106811537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abf8c47fe3261930800000000000000
+      internalID: 4113514821013011364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb884450390af5800800000000000000
+      internalID: 603377428399950014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_38
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 26
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652915e274f61190800000000000000
+      internalID: -7991931714415286934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_39
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 26
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728f262502d64e660800000000000000
+      internalID: 7414170872147277863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_40
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 23
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b859992d67882d0800000000000000
+      internalID: -3276238082020111599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_41
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 31
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f38b4b003abb9b60800000000000000
+      internalID: 7753995898959135728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_42
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 30
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45a61c1dbc821c20800000000000000
+      internalID: 3175755431097574731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad012826121804b0800000000000000
+      internalID: -5474105460697002579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dbfcc5fffe43310800000000000000
+      internalID: 1383994865562402098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_45
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 23
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb53562e8238640800000000000000
+      internalID: 5080949757429791933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a94245e054ec590800000000000000
+      internalID: -7652102789012350434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ump45_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc4a0444e028e3b0800000000000000
+      internalID: -5483096381557420875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ump45_0: -647765313962989160
+      ump45_1: -3910150143451119133
+      ump45_10: -289872997752363875
+      ump45_11: 8519101038869411874
+      ump45_12: -8542367538674411822
+      ump45_13: 978290607513357787
+      ump45_14: -5381064539987177969
+      ump45_15: -8955075843790120010
+      ump45_16: 995613354014535102
+      ump45_17: 4736459465713554120
+      ump45_18: -1909647414741351730
+      ump45_19: -4113841207556548208
+      ump45_2: 9114416672180016265
+      ump45_20: -7746705171080183069
+      ump45_21: -1401244912622819355
+      ump45_22: 3788280299431078806
+      ump45_23: -6011965946555925767
+      ump45_24: -8918312168731806295
+      ump45_25: -7006858262549391018
+      ump45_26: -6619608491555452476
+      ump45_27: -4054512424686748662
+      ump45_28: -6008205588840147326
+      ump45_29: 4056891231136440146
+      ump45_3: 1801697771598252531
+      ump45_30: -8187703230045870092
+      ump45_31: -993053564269652815
+      ump45_32: -6521204558226207634
+      ump45_33: -8104994513925182465
+      ump45_34: -7292207144652101782
+      ump45_35: -5233074008106811537
+      ump45_36: 4113514821013011364
+      ump45_37: 603377428399950014
+      ump45_38: -7991931714415286934
+      ump45_39: 7414170872147277863
+      ump45_4: -7062776190003524606
+      ump45_40: -3276238082020111599
+      ump45_41: 7753995898959135728
+      ump45_42: 3175755431097574731
+      ump45_43: -5474105460697002579
+      ump45_44: 1383994865562402098
+      ump45_45: 5080949757429791933
+      ump45_46: -7652102789012350434
+      ump45_47: -5483096381557420875
+      ump45_5: -6060543297252227846
+      ump45_6: 6552966852807521875
+      ump45_7: -7703586651107487914
+      ump45_8: 4989308665884423677
+      ump45_9: -3505213771698232148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
